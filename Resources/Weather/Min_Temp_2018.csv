@@ -1,0 +1,54 @@
+January - December 2018 Contiguous U.S. Statewide Minimum Temperature,,,,,
+Units: Degrees Fahrenheit,,,,,
+Missing: -99,Rank out of 127 Years,,,,
+Location ID,Location,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+100,Alabama,53.7,121,2.5,51.2
+200,Arizona,48,126,2.7,45.3
+300,Arkansas,50.8,114,1.7,49.1
+400,California,47.5,122,2.7,44.8
+500,Colorado,33,119,2.2,30.8
+600,Connecticut,41.6,124,3.8,37.8
+700,Delaware,48,124,3.9,44.1
+800,Florida,62.2,123,2.9,59.3
+900,Georgia,54.3,122,2.6,51.7
+1000,Idaho,32.8,117,2,30.8
+1100,Illinois,42.6,100,1.4,41.2
+1200,Indiana,43,114,2.3,40.7
+1300,Iowa,37.8,95,1.1,36.7
+1400,Kansas,42.1,87,0.5,41.6
+1500,Kentucky,46.9,125,2.6,44.3
+1600,Louisiana,57.9,119,2.3,55.6
+1700,Maine,31.7,107,2.1,29.6
+1800,Maryland,46.8,123,3.3,43.5
+1900,Massachusetts,40.1,121,3.5,36.6
+2000,Michigan,35.7,108,2.3,33.4
+2100,Minnesota,30.6,94,1.3,29.3
+2200,Mississippi,54.2,118,2.2,52
+2300,Missouri,44.6,100,1.3,43.3
+2400,Montana,29.5,66,0.3,29.2
+2500,Nebraska,36.4,88,0.8,35.6
+2600,Nevada,38.3,121,2.5,35.8
+2700,New Hampshire,34.4,118,3.1,31.3
+2800,New Jersey,44.9,122,3.6,41.3
+2900,New Mexico,40.3,123,2.3,38
+3000,New York,36.9,117,2.5,34.4
+3100,North Carolina,50.2,125,3,47.2
+3200,North Dakota,28.7,80,0.6,28.1
+3300,Ohio,42.9,120,3,39.9
+3400,Oklahoma,48.2,87,0.6,47.6
+3500,Oregon,36.7,110,1.5,35.2
+3600,Pennsylvania,40.5,121,2.8,37.7
+3700,Rhode Island,42.8,124,3.6,39.2
+3800,South Carolina,53.6,123,2.8,50.8
+3900,South Dakota,32.7,79,0.5,32.2
+4000,Tennessee,49,125,2.8,46.2
+4100,Texas,53.9,117,1.7,52.2
+4200,Utah,37.5,120,2.6,34.9
+4300,Vermont,33.4,117,2.9,30.5
+4400,Virginia,46.6,125,3,43.6
+4500,Washington,38.4,119,2.2,36.2
+4600,West Virginia,43.3,125,3,40.3
+4700,Wisconsin,33.3,101,1.6,31.7
+4800,Wyoming,29.4,102,1.3,28.1
+4900,Alaska,23.4,95,5.1,18.3
+5000,Hawaii,73.5,,,
