@@ -1,52 +1,51 @@
-State,2018 Population,MapToTennis,public_tennis_courts,manual_gather,comments,pop_per_10000,courts_per_10000
-New York,19862512,ny,2099,,https://data.world,199,11
-California,39776830,ca,2086,,https://data.world,398,6
-Texas,28704330,tx,1343,,https://data.world,288,5
-Illinois,12768320,il,1126,,https://data.world,128,9
-Florida,21312211,fl,932,,https://data.world,214,5
-District of Columbia,703608,dc,739,,https://data.world,8,93
-Ohio,11694664,oh,731,,https://data.world,117,7
-Pennsylvania,12823989,pa,722,,https://data.world,129,6
-Minnesota,5628162,mn,708,,https://data.world,57,13
-Massachusetts,6895917,ma,678,,https://data.world,69,10
-Michigan,9991177,mi,665,,https://data.world,100,7
-Mississippi,2982785,mi,665,,https://data.world,30,23
-Georgia,10545138,ga,422,,https://data.world,106,4
-Missouri,6135888,mo,420,,https://data.world,62,7
-North Carolina,10390149,nc,415,,https://data.world,104,4
-Washington,7530552,wa,381,,https://data.world,76,6
-Colorado,5684203,co,331,,https://data.world,57,6
-Maryland,6079602,md,305,,https://data.world,61,5
-Virginia,8525660,va,270,,https://data.world,86,4
-Arizona,7123898,az,247,,https://data.world,72,4
-Oregon,4199563,or,240,,https://data.world,42,6
-Wisconsin,5818049,wi,231,,https://data.world,59,4
-Nevada,3056824,nv,172,,https://data.world,31,6
-Utah,3159345,ut,161,,https://data.world,32,6
-Indiana,6699629,in,143,,https://data.world,67,3
-Tennessee,6782564,tn,137,,https://data.world,68,3
-Connecticut,3588683,ct,137,,https://data.world,36,4
-Kentucky,4472265,ky,107,,https://data.world,45,3
-Rhode Island,1061712,ri,105,,https://data.world,11,10
-Oklahoma,3940521,ok,90,,https://data.world,40,3
-Delaware,971180,de,84,,https://data.world,10,9
-New Jersey,9032872,nj,788,,manually gathered by searching for count of public tennis courts in sate.,91,9
-South Carolina,5088916,sc,93,,manually gathered by searching for count of public tennis courts in sate.,51,2
-Alabama,4888949,al,33,,manually gathered by searching for count of public tennis courts in sate.,49,1
-Louisiana,4682509,la,59,,manually gathered by searching for count of public tennis courts in sate.,47,2
-Iowa,3160553,ia,75,,manually gathered by searching for count of public tennis courts in sate.,32,3
-Arkansas,3020327,ak,42,,manually gathered by searching for count of public tennis courts in sate.,31,2
-Kansas,2918515,ks,51,,manually gathered by searching for count of public tennis courts in sate.,30,2
-New Mexico,2090708,nm,33,,manually gathered by searching for count of public tennis courts in sate.,21,2
-Nebraska,1932549,nb,38,,manually gathered by searching for count of public tennis courts in sate.,20,2
-West Virginia,1803077,ne,63,,manually gathered by searching for count of public tennis courts in sate.,19,4
-Idaho,1753860,id,84,,manually gathered by searching for count of public tennis courts in sate.,18,5
-Hawaii,1426393,hi,91,,manually gathered by searching for count of public tennis courts in sate.,15,7
-New Hampshire,1350575,nh,58,,manually gathered by searching for count of public tennis courts in sate.,14,5
-Maine,1341582,me,20,,manually gathered by searching for count of public tennis courts in sate.,14,2
-Montana,1062330,mt,8,,manually gathered by searching for count of public tennis courts in sate.,11,1
-South Dakota,877790,sd,17,,manually gathered by searching for count of public tennis courts in sate.,9,2
-North Dakota,755238,nd,9,,manually gathered by searching for count of public tennis courts in sate.,8,2
-Alaska,738068,ak,13,,manually gathered by searching for count of public tennis courts in sate.,8,2
-Vermont,623960,vt,24,,manually gathered by searching for count of public tennis courts in sate.,7,4
-Wyoming,573720,wy,10,,manually gathered by searching for count of public tennis courts in sate.,6,2
+State,2018 Population,MapToTennis,public_tennis_courts,manual_gather,comments,pop_per_10000,courts_per_10000,rank_per_10000
+New York,19862512,ny,2099,,https://data.world,0.000105676,0.105676462,3
+California,39776830,ca,2086,,https://data.world,5.24426E-05,0.05244259,17
+Texas,28704330,tx,1343,,https://data.world,4.67874E-05,0.046787366,22
+Illinois,12768320,il,1126,,https://data.world,8.8187E-05,0.088187013,6
+Florida,21312211,fl,932,,https://data.world,4.37308E-05,0.043730798,23
+Ohio,11694664,oh,731,,https://data.world,6.25071E-05,0.06250714,12
+Pennsylvania,12823989,pa,722,,https://data.world,5.63007E-05,0.056300735,15
+Minnesota,5628162,mn,708,,https://data.world,0.000125796,0.125795953,2
+Massachusetts,6895917,ma,678,,https://data.world,9.8319E-05,0.098319049,5
+Michigan,9991177,mi,665,,https://data.world,6.65587E-05,0.066558725,10
+Mississippi,2982785,mi,665,,https://data.world,0.000222946,0.222946005,1
+Georgia,10545138,ga,422,,https://data.world,4.00184E-05,0.040018443,25
+Missouri,6135888,mo,420,,https://data.world,6.84498E-05,0.06844975,9
+North Carolina,10390149,nc,415,,https://data.world,3.99417E-05,0.039941679,26
+Washington,7530552,wa,381,,https://data.world,5.05939E-05,0.050593901,19
+Colorado,5684203,co,331,,https://data.world,5.82316E-05,0.058231559,13
+Maryland,6079602,md,305,,https://data.world,5.01678E-05,0.050167758,20
+Virginia,8525660,va,270,,https://data.world,3.16691E-05,0.031669102,32
+Arizona,7123898,az,247,,https://data.world,3.4672E-05,0.034672029,31
+Oregon,4199563,or,240,,https://data.world,5.71488E-05,0.057148803,14
+Wisconsin,5818049,wi,231,,https://data.world,3.9704E-05,0.039704031,27
+Nevada,3056824,nv,172,,https://data.world,5.62676E-05,0.056267551,16
+Utah,3159345,ut,161,,https://data.world,5.09599E-05,0.05095993,18
+Indiana,6699629,in,143,,https://data.world,2.13445E-05,0.021344465,36
+Tennessee,6782564,tn,137,,https://data.world,2.01989E-05,0.020198851,37
+Connecticut,3588683,ct,137,,https://data.world,3.81756E-05,0.038175565,29
+Kentucky,4472265,ky,107,,https://data.world,2.39252E-05,0.023925237,33
+Rhode Island,1061712,ri,105,,https://data.world,9.88969E-05,0.098896876,4
+Oklahoma,3940521,ok,90,,https://data.world,2.28396E-05,0.022839619,35
+Delaware,971180,de,84,,https://data.world,8.64927E-05,0.08649272,8
+New Jersey,9032872,nj,788,,manually gathered by searching for count of public tennis courts in sate.,8.72369E-05,0.087236928,7
+South Carolina,5088916,sc,93,,manually gathered by searching for count of public tennis courts in sate.,1.8275E-05,0.018275012,40
+Alabama,4888949,al,33,,manually gathered by searching for count of public tennis courts in sate.,6.74992E-06,0.006749917,50
+Louisiana,4682509,la,59,,manually gathered by searching for count of public tennis courts in sate.,1.26001E-05,0.012600083,47
+Iowa,3160553,ia,75,,manually gathered by searching for count of public tennis courts in sate.,2.373E-05,0.023730024,34
+Arkansas,3020327,ak,42,,manually gathered by searching for count of public tennis courts in sate.,1.39058E-05,0.013905779,46
+Kansas,2918515,ks,51,,manually gathered by searching for count of public tennis courts in sate.,1.74746E-05,0.01747464,42
+New Mexico,2090708,nm,33,,manually gathered by searching for count of public tennis courts in sate.,1.57841E-05,0.015784127,44
+Nebraska,1932549,nb,38,,manually gathered by searching for count of public tennis courts in sate.,1.96631E-05,0.01966315,38
+West Virginia,1803077,ne,63,,manually gathered by searching for count of public tennis courts in sate.,3.49403E-05,0.034940272,30
+Idaho,1753860,id,84,,manually gathered by searching for count of public tennis courts in sate.,4.78944E-05,0.047894359,21
+Hawaii,1426393,hi,91,,manually gathered by searching for count of public tennis courts in sate.,6.37973E-05,0.063797284,11
+New Hampshire,1350575,nh,58,,manually gathered by searching for count of public tennis courts in sate.,4.29447E-05,0.042944672,24
+Maine,1341582,me,20,,manually gathered by searching for count of public tennis courts in sate.,1.49078E-05,0.014907773,45
+Montana,1062330,mt,8,,manually gathered by searching for count of public tennis courts in sate.,7.53062E-06,0.007530617,49
+South Dakota,877790,sd,17,,manually gathered by searching for count of public tennis courts in sate.,1.93668E-05,0.019366819,39
+North Dakota,755238,nd,9,,manually gathered by searching for count of public tennis courts in sate.,1.19168E-05,0.011916773,48
+Alaska,738068,ak,13,,manually gathered by searching for count of public tennis courts in sate.,1.76136E-05,0.017613553,41
+Vermont,623960,vt,24,,manually gathered by searching for count of public tennis courts in sate.,3.8464E-05,0.038464004,28
+Wyoming,573720,wy,10,,manually gathered by searching for count of public tennis courts in sate.,1.74301E-05,0.017430105,43
