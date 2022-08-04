@@ -1,4 +1,4 @@
-State,2018 Population,MapToTennis,public_tennis_courts,manual_gather,comments,pop_per_10000,courts_per_10000,rank_per_10000
+State,2018 Population,MapToTennis,public_tennis_courts,manual_gather,comments,courts_per_person,courts_per_10000,rank_per_10000
 New York,19862512,ny,2099,,https://data.world,0.000105676,0.105676462,3
 California,39776830,ca,2086,,https://data.world,5.24426E-05,0.05244259,17
 Texas,28704330,tx,1343,,https://data.world,4.67874E-05,0.046787366,22
