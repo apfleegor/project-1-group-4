@@ -1,52 +1,52 @@
-State,2018 Population,state_abbrev
-California,39776830,ca
-Texas,28704330,tx
-Florida,21312211,fl
-New York,19862512,ny
-Pennsylvania,12823989,pa
-Illinois,12768320,il
-Ohio,11694664,oh
-Georgia,10545138,ga
-North Carolina,10390149,nc
-Michigan,9991177,mi
-New Jersey,9032872,nj
-Virginia,8525660,va
-Washington,7530552,wa
-Arizona,7123898,az
-Massachusetts,6895917,ma
-Tennessee,6782564,tn
-Indiana,6699629,in
-Missouri,6135888,mo
-Maryland,6079602,md
-Wisconsin,5818049,wi
-Colorado,5684203,co
-Minnesota,5628162,mn
-South Carolina,5088916,sc
-Alabama,4888949,al
-Louisiana,4682509,la
-Kentucky,4472265,ky
-Oregon,4199563,or
-Oklahoma,3940521,ok
-Connecticut,3588683,ct
-Iowa,3160553,ia
-Utah,3159345,ut
-Nevada,3056824,nv
-Arkansas,3020327,ak
-Mississippi,2982785,mi
-Kansas,2918515,ks
-New Mexico,2090708,nm
-Nebraska,1932549,nb
-West Virginia,1803077,ne
-Idaho,1753860,id
-Hawaii,1426393,hi
-New Hampshire,1350575,nh
-Maine,1341582,me
-Montana,1062330,mt
-Rhode Island,1061712,ri
-Delaware,971180,de
-South Dakota,877790,sd
-North Dakota,755238,nd
+State,2018 Population,state_abbreviation
 Alaska,738068,ak
+Alabama,4888949,al
+Arkansas,3020327,ar
+Arizona,7123898,az
+California,39776830,ca
+Colorado,5684203,co
+Connecticut,3588683,ct
 District of Columbia,703608,dc
+Delaware,971180,de
+Florida,21312211,fl
+Georgia,10545138,ga
+Hawaii,1426393,hi
+Iowa,3160553,ia
+Idaho,1753860,id
+Illinois,12768320,il
+Indiana,6699629,in
+Kansas,2918515,ks
+Kentucky,4472265,ky
+Louisiana,4682509,la
+Massachusetts,6895917,ma
+Maryland,6079602,md
+Maine,1341582,me
+Michigan,9991177,mi
+Mississippi,2982785,ms
+Minnesota,5628162,mn
+Missouri,6135888,mo
+Montana,1062330,mt
+Nebraska,1932549,nb
+North Carolina,10390149,nc
+North Dakota,755238,nd
+West Virginia,1803077,ne
+New Hampshire,1350575,nh
+New Jersey,9032872,nj
+New Mexico,2090708,nm
+Nevada,3056824,nv
+New York,19862512,ny
+Ohio,11694664,oh
+Oklahoma,3940521,ok
+Oregon,4199563,or
+Pennsylvania,12823989,pa
+Rhode Island,1061712,ri
+South Carolina,5088916,sc
+South Dakota,877790,sd
+Tennessee,6782564,tn
+Texas,28704330,tx
+Utah,3159345,ut
+Virginia,8525660,va
 Vermont,623960,vt
+Washington,7530552,wa
+Wisconsin,5818049,wi
 Wyoming,573720,wy
