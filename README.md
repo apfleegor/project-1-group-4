@@ -2,7 +2,7 @@
 
 Team Members: Alexandra Pfleegor, Ken Condit, Eric Zhu, Myles Browne, Drew Blankenbiller, Chuck McManus
 
-##Background
+## Background
 What makes people happy? 
 
 ![happiness_banner](Images/happiness-banner.jpg)
