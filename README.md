@@ -74,6 +74,8 @@ Overall, our group concluded that housing costs and weather have some correlatio
 ## Crime?
 One can imagine that the greater the crimes, the more it decreases happiness. So therefore this was a very good factor to explore to see if there was any correlation between crime and happiness level. The dataset used is called state_crime.csv from the CORGIS dataset project (https://corgis-edu.github.io/corgis/csv/state_crime/). The dataset contains crimes like assault, burglary, larceny, motor thefts, murder, rape, and robbery for all 50 states from 1960-2019. However, the happiness dataset used was from 2018 so we had to subset the crime dataset to only include 2018 stats. Then we merged the happiness dataset with the crime dataset. We initially showed bar graphs to generally see the number of crimes that occur in each state for each crime listed. Then we graphed the scatterplots with the correlation for each crime. The correlations were generally weak althpugh murder, assault, and burglary had the highest correlation values among the 7 crimes included in the dataset. All data cleaning, bar graphs, and scatterplots/correlations are included in the crime_analysis_final.ipynb file.
 
+To conclude, the correlations (with highst of -0.22) are too weak to conclude that crime and happiness are related.
+
 ## Family Structure?
 
 ## # of Parks?
