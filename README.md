@@ -3,10 +3,9 @@
 Team Members: Alexandra Pfleegor, Ken Condit, Eric Zhu, Myles Browne, Drew Blankenbiller, Chuck McManus
 
 ##Background
-––––––––––––––––––––––––––––
 What makes people happy? 
 
-![happiness_banner](Images/happiness_banner.jpg)
+![happiness_banner](Images/happiness-banner.jpg)
 
 Is it Family Structure? Tennis? Weather? Marriage? Crime? The Housing Market? Access to Parks? 
 
