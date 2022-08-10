@@ -25,26 +25,25 @@ Our group decided to dig deeper into Gallup's 2018 Well-Being Poll of Americans 
 * Historical Climate Data from the National Centers for Enivronmental Information
 * Housing Data from Realtor.com for 2018
 * 2018 American Community Survey from the US Census Bureau
-* data.world https://data.world/mglobel/tennis-courts
-* census.gov https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
+* Tennis courts in the US database from data.world https://data.world/mglobel/tennis-courts
+* 2018 State Populations data from census.gov https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
+* manually gathered by state counts of publicly available tennis courts (via google search engine)
+* 
 
 
 # Data Cleaning and Exploration 
 
 ## Tennis Anyone? 
 ### Inspiration:
-So when we considered evaluating data against a Well being index, of course I thought of one of the most enjoyable sports in the modern era: Tennis.
-
-It is an incredibly dynamic and enjoyable activity that requires athleticism and strategy.  Skillful players process an inconceivable number of decisions and adjustments in an instant than could be believed.
-
-### Tennis well-being attributes:
+In considering the well-being index across the 50 states, why think of tennis as a comparator?  The well-being attributes of tennis are plentiful and multi-dimensional. As a tennis player, I became curious to see if I could find data across the 50 states that could be used as explanatory for the well-being index.  Some of my favorite attributes of tennis:
         - Physically challenging
         - Mentally engaging
         - Can be played competitively or recreationally
         - Is great exercise because  it is so fun, you don't even know you're exercising
-        - Builds Character and discipline
+        - Builds character and discipline through self-refereeing / line calling
         - Is social and a great way to make new friends
         - Is economical and can be played almost anywere
+        - Is available to a wide array of groups across the socio-econimic spectrum
         - Has a positive carryover effect on nearly all other aspects of your life
 
 ### Hypothesis:
@@ -53,20 +52,30 @@ Developed a working hypothesis once sources found: Because of all of it's positi
 I set out to prove this by looking at data on public tennis court locations as a proxy for the availability and participation of tennis across 50 states.
 
 ### Data Discovery:
-- 29,000 + locations found in the data
+- 89,000 + locations found in the data
 - Max Raw (California): 12,800+ locations
-- Min Raw (Delaware): 356
+- Min Raw (Delaware): 356 locations
+
+### Data Methodology:
+- I deceded to use the prevalence of publicly available tennis courts as an indicator of the level of tennis activity within each state.
+- I used raw locational data to group data by state and come up with counts of publicly available tennis courts; concatenated a smaller set of counts of publicly available tennis courts by state to come up with a full dataset for the count of courts by state.
+- I used state court data with state population data create base value for an index by which to rank states by availaibilty of public tennis courts.
+- I summarized the relationship with a scatter chart; I expected to see low public tennis court availability in conjunction with low well-being index scores, and high public tennis court availabilty index scores with high well-being index scores.  
 
 ### Data Limitations:
 - Dataset was inclusive of ~ 35 of 50 states; data for the remaining ~ 15 states was found via google search terms around "count of public tennis courts [state name]".
-- Set included only sites for major metropolitan areas.
+
 
 ### Data Sources:
 https://data.world/mglobel/tennis-courts
 https://www.census.gov/newsroom/press-kits/2018/pop-estimates-national-state.html
+Gallup 2018 Data
+Manually Gathered Public Tennis Court Data from Google
 
 ### Conclusions re: Tennis Court data:
-My conclusions were that there was almost no correlation between the by state availability of publicly available tennis courts and gallup's well being index... And that the next survey ought to include individuals walking off of tennis courts.
+- I was surprised to see high and low public court availability scores all along the well-being (x-axis) with no correation to well being at all!!
+- I think that having a polling data specifically relating to well-being and sports (including tennis), would have resulted in a higher correlation between a well-being index and public tennis court location data than what we observed between the Gallup well-being index and public tennis court data. 
+
 ## Housing Costs & Weather?
 
 Overall, our group concluded that housing costs and weather have some correlation with the happiness index. Specifically, the amount of annual precipitation has an inverse impact on the happiness index: the less it rains, the happier people are. The amount that people have to spend on housing per month is surprisingly positively correlated with happiness. This means that states where people have to spend more on housing per month tend to have higher levels of happiness. There is most likely some confounding factor that should be further researched in this relationship.
