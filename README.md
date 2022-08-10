@@ -77,6 +77,8 @@ One can imagine that the greater the crimes, the more it decreases happiness. So
 To conclude, the correlations (with highst of -0.22) are too weak to conclude that crime and happiness are related.
 
 ## Family Structure?
+I asked the question- Does family structure as it relates to being married or not married has any affect on a states well-being ranking?  
+
 
 ## # of Parks?
 
