@@ -15,6 +15,7 @@ Our group decided to dig deeper into Gallup's 2018 Well-Being Poll of Americans 
 * Data Sources
 * Data Cleaning and Exploration
 * Tennis
+* Finances
 * Housing Costs & Weather
 * Crime
 * Family Structure
