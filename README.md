@@ -78,7 +78,15 @@ Manually Gathered Public Tennis Court Data from Google
 
 ## Finances
 
+Question: Can money buy happiness?
 
+In tackling this age old, often debated question we decided to tackle four major categories with finance: average personal income, tax rate (local plus state), poverty rate, and unemployment rate. There was a plethora of data within these categories to compare with the Gallup Poll Well-Being Index for the United States in 2018. Pulling CSV files from the Bureau of Economic Analysis, the U.S. Census Bureau, and the U.S. Bureau of Labor Statistics.
+
+After cleaning the data, we decided creating scatter plots, the specific data’s correlation, and a regression line for each is the best way to analyze.
+
+After we were able to plot the data and find the correlation, we can determine that neither of the data sets had a particularly strong correlation to someone’s happiness. Combined tax rate had the highest correlation with the Well-Being Index (0.46) followed by Poverty Rate (0.17), Unemployment Rate (0.13), and lastly, Average Personal Income (0.07).
+
+Based on my data comparisons, a high income, economic status, or employment status does not make one happy. Keeping the money you earn/have has the highest correlation to personal happiness.
 
 ## Housing Costs & Weather?
 
