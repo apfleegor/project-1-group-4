@@ -76,6 +76,10 @@ Manually Gathered Public Tennis Court Data from Google
 - I was surprised to see high and low public court availability scores all along the well-being (x-axis) with no correation to well being at all!!
 - I think that having a polling data specifically relating to well-being and sports (including tennis), would have resulted in a higher correlation between a well-being index and public tennis court location data than what we observed between the Gallup well-being index and public tennis court data. 
 
+## Finances
+
+
+
 ## Housing Costs & Weather?
 
 Overall, our group concluded that housing costs and weather have some correlation with the happiness index. Specifically, the amount of annual precipitation has an inverse impact on the happiness index: the less it rains, the happier people are. The amount that people have to spend on housing per month is surprisingly positively correlated with happiness. This means that states where people have to spend more on housing per month tend to have higher levels of happiness. There is most likely some confounding factor that should be further researched in this relationship.
