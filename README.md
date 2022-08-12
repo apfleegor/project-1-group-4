@@ -103,13 +103,30 @@ We asked the question- Does family structure as it relates to being married or n
 Given the sample size and data provided, there is not a coorelation between the well being index of a state and family structure as it realates to being married or not married.  My conclusion is based on comparing the census.gov data of married or not married gathered for 2018. My suspicion is that if the people being polled in the happiness ranking were asked their family structure and the data was recorded, we would be able to uncover some correlation. Without that information of who was polled there is no correlation. 
 
 
-## # of Parks?
+## Number of Parks?
+
+### Inspiration 
+
+My inspiration for relating the number of parks (both state and national) and well-being (happiness) has to do with my experiences since moving into the city from the suburbs. From a home where wherever I looked I would see trees, bugs, foliage, signs of nature...to living in the city where there is not a lot of that anywhere. 
+Every time I would go back to where I grew up I could feel myself relaxing and becoming slightly happier, and I wanted to know if this was true for other people!
+
+### Hypothesis
+
+Can the number of parks influence the well-being of Americans? 
+
+### Methodology:
+- The primary source for this section was from Playground Equipment, an international company that services and creates commercial playground equipment and other products. They then ranked all 50 U.S. States by the amount of park acreage they had available.
+- Upon finding this data I set to work getting it ready in an excel spreadsheet as it was only listed on their website as an infographic and an interactive webpage. 
+- After that I converted my excel sheet to a csv and uploaded it into this repository. 
+
+### Findings: 
 
 ![parks_image1](Images/Parks_WellBeing_Scatterplot_LR.png)
 
+For this first scatterplot, I decided to plot the number of parks against the well-being index. This correlation shown here is not strong enough to definitively say that the number of parks can influence your well-being. 
+
 ![parks_image2](Images/Ranks_Scatterplot.png)
 
-
-## Setbacks
+For the next scatterplot I wanted to look into the rankings from both datasets, Playground Equipment's and Gallup's well-being rank to see if they might  be connected. The correlation shown here is marginally better and can be useful to begin more analysis on connecting one's access to greenspace and parks to the well-being index but it is not enough for now.
 
 
