@@ -100,7 +100,7 @@ To conclude, the correlations (with highst of -0.22) are too weak to conclude th
 
 ## Family Structure?
 We asked the question- Does family structure as it relates to being married or not married have any affect on a states well-being ranking? 
-Given the sample size and data provided, there is not a coorelation (.31 and .35) between the well being index of a state and family structure as it relates to being married or not married.  My conclusion is based on comparing the census.gov data of married or not married gathered for 2018. My suspicion is that if the people being polled in the happiness ranking were asked their family structure and the data was recorded, we would be able to uncover some correlation. Without that information of who was polled there is no correlation. 
+Given the sample size and data provided, there is not a correlation (.31 and .35) between the well being index of a state and family structure as it relates to being married or not married.  My conclusion is based on comparing the census.gov data of married or not married gathered for 2018. My suspicion is that if the people being polled in the happiness ranking were asked their family structure and the data was recorded, we would be able to uncover some correlation. Without that information of who was polled there is no correlation. 
 
 
 ## Number of Parks?
